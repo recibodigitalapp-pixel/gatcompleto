@@ -7,7 +7,7 @@ Mini site estático para publicar no GitHub Pages e disponibilizar o APK do app.
 - `index.html`: página do site.
 - `styles.css`: visual da página.
 - `assets/`: imagens usadas no site.
-- `GAT-com-recibo.apk`: arquivo baixado pelo botão.
+- `GAT-com-recibo-<versao>-<data>.apk`: APKs versionados; o botão da página sempre aponta para a versão mais recente.
 
 ## Publicação no GitHub Pages
 
